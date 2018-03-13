@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LimitPrice</string>
+    <string name="product_non_standard">%s-</string>
+    <string name="price1">格式：1，1.2，3.4-4888，5.9-9.8 999-1000.7</string>
+    <string name="price2">格式：后面保留2位小数</string>
+</resources>
